@@ -1,0 +1,7 @@
+beautifulsoup4==4.8.0
+Django==2.2.5
+django-bootstrap4==1.0.1
+django-recaptcha==2.0.5
+pytz==2019.2
+soupsieve==1.9.3
+sqlparse==0.3.0
