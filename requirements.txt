@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.0
-Django==2.2.5
+Django==2.2.8
 django-bootstrap4==1.0.1
 django-recaptcha==2.0.5
 pytz==2019.2
