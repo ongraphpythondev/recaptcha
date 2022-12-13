@@ -122,6 +122,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
+# Please move these to environment variables to use in production.
 RECAPTCHA_PUBLIC_KEY = 'MyRecaptchaKey123'
 RECAPTCHA_PRIVATE_KEY = 'MyRecaptchaPrivateKey456'
